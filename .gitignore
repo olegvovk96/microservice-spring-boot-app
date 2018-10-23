@@ -16,6 +16,9 @@
 *.iml
 *.ipr
 
+# Mac
+.DS_Store
+
 ### NetBeans ###
 /nbproject/private/
 /build/
